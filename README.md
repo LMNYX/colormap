@@ -1,2 +1,5 @@
-# colormap
-Generate colormap image from text file
+# Colormap
+File format to import must be:
+```
+#HexColor (Text)
+```
